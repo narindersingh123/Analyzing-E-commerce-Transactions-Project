@@ -7,6 +7,8 @@ To address the problem, I developed a Customer Cohort Analysis system that track
 
 By analyzing customer cohorts, we could gain a deeper understanding of customer retention rates and purchasing behaviors, and use these insights to improve customer lifetime value (CLV) and marketing efforts.
 
+Medium blog: https://medium.com/@singhnarinder87252/analyzing-e-commerce-transactions-data-cleaning-cohort-analysis-and-sql-0df0877052a6
+
 
 
 
